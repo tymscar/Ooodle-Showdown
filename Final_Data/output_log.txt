@@ -1,0 +1,3412 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3053 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.163 seconds
+Platform assembly: C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\OscarMolnar\Desktop\GGJ17\Final_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3286x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.708164 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 10ac -> priority: 1 
+Joystick connected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename:  Line: 1353)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.695141 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 210.
+Total: 0.443564 ms (FindLiveObjects: 0.018602 ms CreateObjectMapping: 0.013470 ms MarkObjects: 0.302124 ms  DeleteObjects: 0.108726 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.404756 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 0.399304 ms (FindLiveObjects: 0.092369 ms CreateObjectMapping: 0.035279 ms MarkObjects: 0.264920 ms  DeleteObjects: 0.006414 ms)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BOT (18) (UnityEngine.BoxCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BOT (34) (UnityEngine.BoxCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BOT (29) (UnityEngine.BoxCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BOT (24) (UnityEngine.BoxCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+BOT (15) (UnityEngine.BoxCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+BOT (49) (UnityEngine.BoxCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+BOT (46) (UnityEngine.BoxCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1091)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 687)
+
+BOT (50) (UnityEngine.BoxCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BOT (21) (UnityEngine.BoxCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BOT (3) (UnityEngine.BoxCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ping Collider(Clone) (UnityEngine.SphereCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BOT (51) (UnityEngine.BoxCollider)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
