@@ -14,8 +14,11 @@ After the game is downloaded, execute the included `Ooodle-Showdown\Final.exe` f
 # Controls
 
 The game is playable on keyboards and controllers alike. 
+
 Keyboard: W,A,S,D to move, E to shank and SPACE to ping.
+
 Xbox controller: Left stick to move, X to shank, A to ping.
+
 PS4 Controller: Left stick to move, SQUARE to shank, X to ping.
 
 # Changing the game
